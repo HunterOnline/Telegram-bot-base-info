@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f70e7e3c-06ad-44b5-a2ed-45a90fc9b35e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/photo/108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/82.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/TDP/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/TDP/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/TDP/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/TDP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/photo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_pacet/DATA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_pacet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handlers/users/kord_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboards/default/test_key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/set_bot_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/users/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/users/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/users/help.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/users/help.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q4yTBpNSdnBiXdiD2sAhROwkMc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/photo/TDP" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\255 G3\KORD_telegram_bot\aiogram-bot-template\utils" />
+      <recent name="C:\Users\255 G3\KORD_telegram_bot\aiogram-bot-template\data\test_pacet" />
+      <recent name="C:\Users\255 G3\KORD_telegram_bot\aiogram-bot-template\data" />
+      <recent name="C:\Users\255 G3\KORD_telegram_bot\aiogram-bot-template" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\255 G3\KORD_telegram_bot\aiogram-bot-template\data\photo\TDP" />
+      <recent name="C:\Users\255 G3\KORD_telegram_bot\aiogram-bot-template\utils\misc" />
+      <recent name="C:\Users\255 G3\KORD_telegram_bot\aiogram-bot-template\handlers\users" />
+      <recent name="C:\Users\255 G3\KORD_telegram_bot\aiogram-bot-template\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="aiogram-bot-template" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\255 G3\KORD_telegram_bot\aiogram-bot-template\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aiogram-bot-template" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\255 G3\KORD_telegram_bot\aiogram-bot-template\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f70e7e3c-06ad-44b5-a2ed-45a90fc9b35e" name="Default Changelist" comment="" />
+      <created>1616353161338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616353161338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616354227166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1616354227166" />
+    <state x="459" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616848677795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1616848677795" />
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616408435740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1616408435740" />
+    <state width="1344" height="198" key="GridCell.Tab.0.bottom" timestamp="1616864161634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616864161634" />
+    <state width="1344" height="198" key="GridCell.Tab.0.center" timestamp="1616864161634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="198" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616864161634" />
+    <state width="1344" height="198" key="GridCell.Tab.0.left" timestamp="1616864161634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="198" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616864161634" />
+    <state width="1344" height="198" key="GridCell.Tab.0.right" timestamp="1616864161634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="198" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616864161634" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1616353914262">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616353914262" />
+  </component>
+</project>
